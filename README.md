@@ -6,17 +6,17 @@
 
 ### 💻 Tech Stack
 
-Languages: JavaScript, HTML/CSS
-Frameworks/Libraries: React, Node, Express, jQuery, Pug
-Testing: Jest, QUnit
-Databases: PostgreSQL
-Tools: VSCode, Netlify, Heroku, Postman, PGAdmin, Slack, Git, GitHub, Zoom
+- Languages: JavaScript, HTML/CSS
+- Frameworks/Libraries: React, Node, Express, jQuery, Pug
+- Testing: Jest, QUnit
+- Databases: PostgreSQL
+- Tools: VSCode, Netlify, Heroku, Postman, PGAdmin, Slack, Git, GitHub, Zoom
 
 ### 🗺️ How To Reach Me:
 
-<img src='email.png' alt='email' width='20px' /> sydneyjames7@gmail.com
+<img src='email.png' alt='email' width='18px' /> sydneyjames7@gmail.com
 <br>
-<img src='linkedin.png' alt='linkedIn' width='20px' /> [LinkedIn](https://www.linkedin.com/in/sydjames/)
+<img src='linkedin.png' alt='linkedIn' width='18px' /> [LinkedIn](https://www.linkedin.com/in/sydjames/)
 
 <!--
 **scjam/scjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
